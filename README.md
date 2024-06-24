@@ -129,11 +129,9 @@ Este proyecto está bajo la licencia MIT.
 
 ## Resultado del despliegue en Renix Yoppen Token ERC20
 
-- URL TX https://sepolia.etherscan.io/tx/0xe39b94713a973d60e80f881bc6d67d2ac06015261c94d49592e55e7ef0cb3642
-
-- URL del Contrato ERC20 https://sepolia.etherscan.io/token/0xa9be8b620119cd83d05c3b75211e8e6d9b27e1ef?a=0x9a9dee7e3e68175549ca5815671cb3717754d29f
-
-- URL del Token Yoppen https://sepolia.etherscan.io/address/0xa9be8b620119cd83d05c3b75211e8e6d9b27e1ef
+•	URL https://sepolia.etherscan.io/tx/0x488c37aa321c1a88de8e797c3f54d5ec2327ffae1583a1a463d3ff1b666d6f30 
+•	URL del Contrato ERC20 https://sepolia.etherscan.io/address/0x38bc18ae393a7e560f8c26c1490f06d0ee069b73
+•	URL del Token Yoppen https://sepolia.etherscan.io/token/0x38bc18ae393a7e560f8c26c1490f06d0ee069b73
 
 
 ### Imagen del contrato Toekn ERC20
